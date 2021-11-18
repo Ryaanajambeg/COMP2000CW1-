@@ -10,6 +10,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.COMP2000CW1EX4">
         <activity
+            android:name=".bookingCreateActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Createbookingactivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomescreenActivity"
+            android:exported="false" />
+        <activity
+            android:name=".accountcreatedActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RegisterAccountActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

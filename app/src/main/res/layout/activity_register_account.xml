@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RegisterAccountActivity">
+
+    <TextView
+        android:id="@+id/Registeraccounttext"
+        android:layout_width="284dp"
+        android:layout_height="96dp"
+        android:layout_marginEnd="64dp"
+        android:layout_marginBottom="600dp"
+        android:text="Register an account"
+        android:textAlignment="center"
+        android:textSize="36dp"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <EditText
+        android:id="@+id/firstnametext"
+        android:layout_width="222dp"
+        android:layout_height="54dp"
+        android:layout_marginEnd="92dp"
+        android:layout_marginBottom="408dp"
+        android:background="@drawable/usernamebackground"
+        android:text="Last Name"
+        android:textSize="18dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <EditText
+        android:id="@+id/lasttnametext"
+        android:layout_width="222dp"
+        android:layout_height="54dp"
+        android:layout_marginEnd="92dp"
+        android:layout_marginBottom="500dp"
+        android:background="@drawable/usernamebackground"
+        android:text="First Name"
+        android:textSize="18dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <EditText
+        android:id="@+id/usernametext"
+        android:layout_width="222dp"
+        android:layout_height="54dp"
+        android:layout_marginEnd="92dp"
+        android:layout_marginBottom="320dp"
+        android:background="@drawable/usernamebackground"
+        android:text="Username"
+        android:textSize="18dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <EditText
+        android:id="@+id/emailtext"
+        android:layout_width="222dp"
+        android:layout_height="54dp"
+        android:layout_marginEnd="92dp"
+        android:layout_marginBottom="228dp"
+        android:background="@drawable/usernamebackground"
+        android:text="Email"
+        android:textSize="18dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <EditText
+        android:id="@+id/passwordtext"
+        android:layout_width="222dp"
+        android:layout_height="54dp"
+        android:layout_marginEnd="92dp"
+        android:layout_marginBottom="140dp"
+        android:background="@drawable/usernamebackground"
+        android:text="Password"
+        android:textSize="18dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <Button
+        android:id="@+id/createaccntbutton"
+        android:layout_width="162dp"
+        android:layout_height="88dp"
+        android:layout_marginEnd="124dp"
+        android:layout_marginBottom="36dp"
+        android:backgroundTint="#58C56a"
+        android:text="Create Account"
+        android:textSize="24dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
