@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BookingshistoryActivity">
+
+    <TextView
+        android:id="@+id/bookinhhitorytext"
+        android:layout_width="306dp"
+        android:layout_height="88dp"
+        android:layout_marginEnd="52dp"
+        android:layout_marginBottom="588dp"
+        android:text="Bookings History"
+        android:textColor="@color/black"
+        android:textSize="40dp"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/dates1"
+        android:layout_width="118dp"
+        android:layout_height="22dp"
+        android:layout_marginEnd="264dp"
+        android:layout_marginBottom="520dp"
+        android:text="Dates : _______"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/dates2"
+        android:layout_width="118dp"
+        android:layout_height="22dp"
+        android:layout_marginEnd="264dp"
+        android:layout_marginBottom="436dp"
+        android:text="Dates : _______"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/dates3"
+        android:layout_width="118dp"
+        android:layout_height="22dp"
+        android:layout_marginEnd="264dp"
+        android:layout_marginBottom="352dp"
+        android:text="Dates : _______"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/dates4"
+        android:layout_width="118dp"
+        android:layout_height="22dp"
+        android:layout_marginEnd="264dp"
+        android:layout_marginBottom="272dp"
+        android:text="Dates : _______"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/accomtype1"
+        android:layout_width="137dp"
+        android:layout_height="20dp"
+        android:layout_marginEnd="104dp"
+        android:layout_marginBottom="520dp"
+        android:text="Accommodation type:"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/accomtype2"
+        android:layout_width="137dp"
+        android:layout_height="20dp"
+        android:layout_marginEnd="104dp"
+        android:layout_marginBottom="436dp"
+        android:text="Accommodation type:"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/accomtype3"
+        android:layout_width="137dp"
+        android:layout_height="20dp"
+        android:layout_marginEnd="104dp"
+        android:layout_marginBottom="356dp"
+        android:text="Accommodation type:"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/accomtype4"
+        android:layout_width="137dp"
+        android:layout_height="20dp"
+        android:layout_marginEnd="104dp"
+        android:layout_marginBottom="272dp"
+        android:text="Accommodation type:"
+        android:textColor="@color/black"
+        android:textSize="14dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <Button
+        android:id="@+id/BHhome"
+        android:layout_width="201dp"
+        android:layout_height="79dp"
+        android:layout_marginEnd="124dp"
+        android:layout_marginBottom="92dp"
+        android:text="HOME"
+        android:backgroundTint="#C4C4C4"
+        android:textColor="@color/black"
+        android:textSize="38dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

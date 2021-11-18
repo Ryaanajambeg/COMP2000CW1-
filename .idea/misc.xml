@@ -6,9 +6,14 @@
         <entry key="..\:/Users/ryaan/AndroidStudioProjects/COMP2000CW1EX4/app/src/main/res/drawable/usernamebackground.xml" value="0.22135416666666666" />
         <entry key="..\:/Users/ryaan/AndroidStudioProjects/COMP2000CW1EX4/app/src/main/res/layout/activity_accountcreated.xml" value="0.22" />
         <entry key="..\:/Users/ryaan/AndroidStudioProjects/COMP2000CW1EX4/app/src/main/res/layout/activity_booking_create.xml" value="0.34601449275362317" />
+        <entry key="..\:/Users/ryaan/AndroidStudioProjects/COMP2000CW1EX4/app/src/main/res/layout/activity_bookingshistory.xml" value="0.34375" />
+        <entry key="..\:/Users/ryaan/AndroidStudioProjects/COMP2000CW1EX4/app/src/main/res/layout/activity_cancelbooking.xml" value="0.34375" />
+        <entry key="..\:/Users/ryaan/AndroidStudioProjects/COMP2000CW1EX4/app/src/main/res/layout/activity_cancelbookingconfirm.xml" value="0.34375" />
         <entry key="..\:/Users/ryaan/AndroidStudioProjects/COMP2000CW1EX4/app/src/main/res/layout/activity_createbookingactivity.xml" value="0.34601449275362317" />
+        <entry key="..\:/Users/ryaan/AndroidStudioProjects/COMP2000CW1EX4/app/src/main/res/layout/activity_detailschange.xml" value="0.34375" />
         <entry key="..\:/Users/ryaan/AndroidStudioProjects/COMP2000CW1EX4/app/src/main/res/layout/activity_homescreen.xml" value="0.20520833333333333" />
         <entry key="..\:/Users/ryaan/AndroidStudioProjects/COMP2000CW1EX4/app/src/main/res/layout/activity_main.xml" value="0.25139664804469275" />
+        <entry key="..\:/Users/ryaan/AndroidStudioProjects/COMP2000CW1EX4/app/src/main/res/layout/activity_managebooking.xml" value="0.33" />
         <entry key="..\:/Users/ryaan/AndroidStudioProjects/COMP2000CW1EX4/app/src/main/res/layout/activity_register_account.xml" value="0.36666666666666664" />
       </map>
     </option>

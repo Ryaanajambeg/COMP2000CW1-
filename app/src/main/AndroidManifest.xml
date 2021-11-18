@@ -10,6 +10,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.COMP2000CW1EX4">
         <activity
+            android:name=".cancelbookingconfirmActivity"
+            android:exported="false" />
+        <activity
+            android:name=".cancelbookingActivity"
+            android:exported="false" />
+        <activity
+            android:name=".BookingshistoryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DetailschangeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".managebookingActivity"
+            android:exported="false" />
+        <activity
             android:name=".bookingCreateActivity"
             android:exported="false" />
         <activity
